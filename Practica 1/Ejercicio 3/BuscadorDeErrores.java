@@ -2,7 +2,7 @@
 Autor: Ameyalli
 El programa debe mostrar tres mensajes en pantalla.
 **/
-public class ProgramaConErrores {
+public class BuscadorDeErrores {
 public static void main(String[] args) {
 System.out.println("Estoy aprendiendo Java");
 System.out.println("El compilador puede ayudarme");
